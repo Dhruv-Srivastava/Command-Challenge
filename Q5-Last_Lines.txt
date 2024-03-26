@@ -1,0 +1,3 @@
+Problem: Print the last 5 lines of "access.log".
+
+Solution: cat access.log | tail -5
